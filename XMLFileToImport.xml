@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <FirstName>Krishnan</FirstName>
+        <Dept>CE</Dept>
+        <Email>krin@example.com</Email>
+        <FeeAmount>3239</FeeAmount>
+        <Block>Block 2</Block>
+        <EnrollmentMonth>January</EnrollmentMonth>
+    </Student>
+    <Student>
+        <FirstName>Geeta</FirstName>
+        <Dept>CSE</Dept>
+        <Email>geetm@example.com</Email>
+        <FeeAmount>3238</FeeAmount>
+        <Block>Block 3</Block>
+        <EnrollmentMonth>January</EnrollmentMonth>
+    </Student>
+    <Student>
+        <FirstName>Alok</FirstName>
+        <Dept>MBA</Dept>
+        <Email>alog@example.com</Email>
+        <FeeAmount>3241</FeeAmount>
+        <Block>Block 1</Block>
+        <EnrollmentMonth>January</EnrollmentMonth>
+    </Student>
+</Students>
