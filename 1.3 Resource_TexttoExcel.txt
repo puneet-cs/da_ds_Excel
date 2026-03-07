@@ -1,0 +1,1001 @@
+Love_Arranged  Age   Gender  Education      Occupation     Salary    Indian_state   Conflict_per_year 
+Arranged       32    Male    Post Graduate  Doctor         1615328   Maharashtra    16                
+Love           35    Female  12th           Business       1185026   UP             15                
+Love           34    Female  Graduate       Business       677892    Rajasthan      16                
+Love           32    Male    Post Graduate  Doctor         1215566   Telangana      18                
+Love           29    Male    Graduate       Engineer       1314133   Karnataka      4                 
+Arranged       32    Male    PhD            Engineer       747910    Rajasthan      8                 
+Love           27    Female  Post Graduate  GovtJob        1891764   Gujarat        10                
+Love           26    Male    Post Graduate  Engineer       1851332   Punjab         23                
+Arranged       34    Female  10th           PrivateJob     1247222   Punjab         23                
+Arranged       23    Female  12th           Business       2485983   TamilNadu      6                 
+Love           37    Male    Graduate       GovtJob        2389344   TamilNadu      21                
+Arranged       34    Male    PhD            Teacher        901532    Telangana      14                
+Love           21    Male    PhD            PrivateJob     2905544   TamilNadu      13                
+Love           32    Male    10th           Doctor         2491174   UP             3                 
+Arranged       34    Female  10th           Business       457135    Delhi          20                
+Arranged       27    Male    Post Graduate  PrivateJob     1747303   Delhi          9                 
+Love           38    Male    Graduate       Doctor         2312683   Delhi          17                
+Arranged       28    Female  Post Graduate  GovtJob        2910687   TamilNadu      12                
+Love           36    Male    12th           Business       701718    Delhi          2                 
+Arranged       32    Female  Graduate       Engineer       2430945   Gujarat        0                 
+Arranged       31    Male    10th           Business       2010099   Rajasthan      16                
+Love           36    Male    10th           GovtJob        1259143   Maharashtra    14                
+Love           38    Male    10th           Doctor         951610    Delhi          23                
+Arranged       23    Male    12th           PrivateJob     2842267   Gujarat        16                
+Love           22    Male    10th           Business       378158    Telangana      6                 
+Arranged       37    Male    10th           Business       1274638   Rajasthan      21                
+Arranged       25    Female  PhD            Engineer       1924241   UP             16                
+Arranged       36    Female  Graduate       Doctor         503911    WB             7                 
+Arranged       36    Female  12th           GovtJob        2703515   Delhi          13                
+Love           31    Female  Graduate       Doctor         1104666   Gujarat        18                
+Arranged       21    Male    12th           Teacher        1930586   WB             10                
+Love           34    Male    10th           Business       1137619   Delhi          9                 
+Love           25    Female  12th           Doctor         229856    Punjab         7                 
+Love           23    Male    10th           Engineer       2525187   UP             1                 
+Love           22    Female  Post Graduate  Engineer       1613516   Karnataka      0                 
+Arranged       32    Male    Graduate       Teacher        2306969   Punjab         6                 
+Love           32    Male    Post Graduate  Doctor         2590066   Punjab         21                
+Love           31    Male    Graduate       Business       1692090   Maharashtra    18                
+Love           34    Male    10th           Engineer       1626808   TamilNadu      12                
+Love           26    Female  12th           Doctor         1204415   Punjab         8                 
+Arranged       23    Female  Graduate       Doctor         2468223   WB             23                
+Love           37    Male    PhD            Engineer       1347404   Maharashtra    1                 
+Love           33    Male    Graduate       Business       2186284   Delhi          16                
+Love           21    Male    10th           GovtJob        1124742   Gujarat        16                
+Arranged       29    Female  Graduate       GovtJob        1560893   Punjab         8                 
+Love           36    Female  Post Graduate  Doctor         2247006   UP             11                
+Arranged       32    Female  PhD            Engineer       1846307   UP             22                
+Love           28    Male    PhD            Engineer       2669078   TamilNadu      7                 
+Love           25    Male    10th           PrivateJob     838668    WB             23                
+Arranged       32    Male    12th           Business       2681744   Telangana      16                
+Love           34    Male    Graduate       GovtJob        2698020   Punjab         16                
+Love           26    Female  Graduate       Doctor         1201509   Karnataka      6                 
+Love           34    Male    10th           Doctor         907735    WB             14                
+Love           31    Female  10th           PrivateJob     1053340   Karnataka      6                 
+Arranged       32    Male    PhD            GovtJob        2796082   Rajasthan      7                 
+Arranged       32    Male    Graduate       GovtJob        2124477   Delhi          3                 
+Arranged       30    Female  10th           PrivateJob     2451149   Delhi          11                
+Love           25    Male    12th           Engineer       704813    Delhi          7                 
+Love           38    Male    10th           Teacher        1562612   TamilNadu      4                 
+Love           30    Female  12th           PrivateJob     2352954   Rajasthan      6                 
+Arranged       32    Male    Graduate       Doctor         307613    Punjab         24                
+Love           22    Female  10th           PrivateJob     1160564   Rajasthan      16                
+Love           22    Male    Post Graduate  Engineer       2660799   Telangana      24                
+Arranged       32    Female  PhD            Teacher        1015328   WB             9                 
+Love           27    Female  10th           Teacher        876019    Gujarat        2                 
+Arranged       23    Female  Graduate       Doctor         2497982   TamilNadu      18                
+Arranged       35    Female  Graduate       Doctor         2186874   Gujarat        20                
+Arranged       33    Female  10th           Teacher        2110502   Punjab         25                
+Arranged       26    Female  12th           GovtJob        1272757   Karnataka      21                
+Arranged       24    Male    Post Graduate  Teacher        1977310   WB             12                
+Love           31    Female  12th           PrivateJob     2846885   TamilNadu      8                 
+Arranged       29    Male    12th           Engineer       2996732   Telangana      2                 
+Arranged       25    Male    10th           GovtJob        1073289   Telangana      1                 
+Love           27    Male    Graduate       Teacher        1924666   Telangana      1                 
+Arranged       29    Female  PhD            Doctor         2679883   Telangana      6                 
+Love           28    Male    PhD            PrivateJob     1485243   Karnataka      21                
+Arranged       37    Male    12th           Doctor         2141009   TamilNadu      1                 
+Love           38    Male    PhD            Business       2641468   WB             15                
+Arranged       28    Female  12th           Business       2905584   Maharashtra    23                
+Arranged       25    Female  12th           PrivateJob     1506543   Karnataka      5                 
+Arranged       23    Female  PhD            GovtJob        630323    Maharashtra    14                
+Arranged       25    Male    Post Graduate  PrivateJob     1814633   Maharashtra    19                
+Arranged       36    Female  Graduate       Engineer       934575    Maharashtra    21                
+Love           27    Male    Graduate       Engineer       1699338   Gujarat        4                 
+Arranged       36    Female  Post Graduate  PrivateJob     1668022   Telangana      20                
+Love           27    Male    PhD            Doctor         1042687   Delhi          25                
+Love           22    Female  Graduate       PrivateJob     1097522   Gujarat        17                
+Love           25    Female  10th           Teacher        2214188   Telangana      15                
+Love           31    Male    Graduate       Engineer       2136292   Karnataka      13                
+Love           36    Male    Graduate       Doctor         216003    Punjab         17                
+Arranged       25    Female  12th           Doctor         1494929   Maharashtra    14                
+Love           23    Male    PhD            Engineer       997123    UP             8                 
+Love           25    Male    10th           Doctor         212480    Telangana      12                
+Arranged       37    Male    Post Graduate  GovtJob        1554327   Karnataka      7                 
+Arranged       31    Female  Graduate       Engineer       547912    Gujarat        21                
+Arranged       25    Male    10th           Business       2532606   Gujarat        19                
+Arranged       22    Male    Post Graduate  Business       2552568   TamilNadu      4                 
+Love           38    Male    Post Graduate  Doctor         2419825   Karnataka      23                
+Arranged       33    Male    12th           Engineer       1374018   WB             22                
+Arranged       26    Male    PhD            PrivateJob     919935    Karnataka      16                
+Arranged       37    Female  PhD            Engineer       626030    Maharashtra    13                
+Arranged       37    Female  Post Graduate  Engineer       1736252   Telangana      11                
+Arranged       24    Male    12th           Doctor         1557919   Karnataka      11                
+Arranged       32    Male    12th           Engineer       802796    Gujarat        15                
+Love           29    Female  10th           PrivateJob     1334105   Delhi          6                 
+Arranged       25    Male    Graduate       GovtJob        1058635   Karnataka      1                 
+Love           24    Male    Graduate       Engineer       895886    Karnataka      20                
+Arranged       23    Female  10th           Business       937657    Rajasthan      18                
+Arranged       32    Male    Graduate       GovtJob        2080951   TamilNadu      13                
+Love           32    Male    Post Graduate  Teacher        2266317   Karnataka      23                
+Arranged       32    Female  12th           Business       389317    TamilNadu      2                 
+Arranged       22    Male    10th           Teacher        1320560   Punjab         13                
+Love           26    Female  Graduate       Engineer       2163846   TamilNadu      15                
+Arranged       24    Male    12th           PrivateJob     2182766   Karnataka      11                
+Arranged       22    Female  PhD            Teacher        2677468   Maharashtra    16                
+Arranged       38    Female  10th           Teacher        1740716   Gujarat        2                 
+Arranged       21    Male    10th           Teacher        2337928   WB             24                
+Arranged       34    Male    PhD            PrivateJob     1292324   TamilNadu      3                 
+Arranged       37    Female  10th           Doctor         999231    UP             18                
+Love           34    Female  10th           Doctor         2179853   Maharashtra    12                
+Love           22    Female  12th           Teacher        1972219   Telangana      3                 
+Arranged       35    Female  Graduate       PrivateJob     442698    Telangana      9                 
+Love           33    Male    Graduate       Business       583748    Rajasthan      12                
+Arranged       21    Female  PhD            Engineer       999745    Delhi          7                 
+Arranged       27    Male    PhD            Engineer       1644264   Gujarat        6                 
+Love           35    Female  10th           Teacher        1869541   Delhi          0                 
+Love           34    Male    12th           PrivateJob     451308    Punjab         21                
+Arranged       23    Female  12th           Teacher        2849409   Telangana      14                
+Arranged       33    Male    Graduate       Engineer       1412954   Punjab         9                 
+Arranged       25    Female  12th           Teacher        1354351   Maharashtra    21                
+Arranged       37    Female  PhD            Business       486511    Karnataka      4                 
+Arranged       21    Female  Post Graduate  Doctor         1515710   Gujarat        21                
+Love           30    Female  PhD            Doctor         2627410   Telangana      8                 
+Arranged       31    Male    Graduate       Teacher        2371931   WB             0                 
+Love           29    Male    PhD            GovtJob        248547    UP             19                
+Love           24    Female  Graduate       Teacher        2261012   TamilNadu      6                 
+Love           32    Female  PhD            Engineer       210325    Karnataka      21                
+Arranged       31    Female  Post Graduate  PrivateJob     1182045   UP             18                
+Love           23    Male    10th           Doctor         1673201   Rajasthan      10                
+Arranged       26    Female  Post Graduate  PrivateJob     800206    TamilNadu      5                 
+Arranged       24    Male    PhD            GovtJob        2691010   Karnataka      1                 
+Love           31    Male    10th           Business       1406814   Rajasthan      22                
+Arranged       26    Male    Post Graduate  PrivateJob     1314352   UP             2                 
+Arranged       35    Male    12th           Engineer       1543317   Punjab         22                
+Love           37    Male    Graduate       PrivateJob     2155688   Telangana      16                
+Arranged       35    Female  Post Graduate  Business       2055318   WB             7                 
+Arranged       26    Male    Graduate       Teacher        2155107   Rajasthan      7                 
+Arranged       37    Male    Post Graduate  GovtJob        1714607   Karnataka      18                
+Love           28    Male    PhD            Teacher        1798364   Gujarat        7                 
+Arranged       23    Male    PhD            Doctor         2341769   Telangana      5                 
+Love           32    Female  12th           Business       2655892   TamilNadu      20                
+Arranged       29    Female  Post Graduate  GovtJob        823124    Gujarat        4                 
+Love           24    Female  Graduate       Teacher        2093445   Karnataka      10                
+Arranged       37    Male    10th           Engineer       828971    TamilNadu      10                
+Arranged       37    Male    Post Graduate  PrivateJob     2816273   TamilNadu      1                 
+Love           27    Female  10th           PrivateJob     1130405   TamilNadu      17                
+Arranged       25    Female  12th           Teacher        1866336   Karnataka      11                
+Arranged       26    Female  PhD            Engineer       2595374   Rajasthan      6                 
+Love           37    Female  12th           GovtJob        2178337   WB             11                
+Arranged       23    Female  10th           Business       771636    Gujarat        6                 
+Arranged       38    Female  Graduate       PrivateJob     934885    WB             2                 
+Love           21    Female  Post Graduate  Business       436137    WB             25                
+Arranged       29    Female  12th           Doctor         2284472   Karnataka      17                
+Arranged       22    Female  Graduate       Business       2124339   UP             6                 
+Arranged       34    Female  PhD            PrivateJob     2661302   UP             7                 
+Arranged       23    Female  10th           Doctor         274380    Karnataka      15                
+Arranged       26    Female  12th           Engineer       804580    Rajasthan      19                
+Love           28    Male    Post Graduate  Teacher        1909416   Karnataka      11                
+Arranged       22    Female  Post Graduate  Engineer       1053221   Telangana      5                 
+Arranged       21    Female  PhD            Doctor         671532    Delhi          20                
+Love           33    Female  PhD            Business       497261    Rajasthan      5                 
+Arranged       33    Male    Post Graduate  Engineer       849546    Rajasthan      2                 
+Arranged       29    Female  Post Graduate  Doctor         2424892   Delhi          7                 
+Arranged       38    Male    Post Graduate  PrivateJob     1940525   TamilNadu      10                
+Love           36    Male    12th           PrivateJob     242059    Karnataka      25                
+Love           31    Male    Graduate       GovtJob        954449    UP             3                 
+Love           21    Male    Post Graduate  Doctor         2328324   UP             18                
+Arranged       23    Male    12th           Business       2439601   TamilNadu      6                 
+Arranged       23    Male    12th           PrivateJob     2930656   Punjab         3                 
+Arranged       21    Female  PhD            Business       273641    Maharashtra    21                
+Love           24    Female  12th           PrivateJob     560945    Rajasthan      4                 
+Love           35    Female  12th           PrivateJob     2109658   Punjab         10                
+Love           23    Female  12th           Engineer       2256839   Delhi          16                
+Arranged       33    Female  10th           GovtJob        605905    Rajasthan      20                
+Love           22    Female  12th           Teacher        1861571   UP             12                
+Love           35    Male    PhD            Teacher        2025771   UP             6                 
+Love           38    Female  Graduate       Engineer       1436398   Delhi          21                
+Love           38    Female  PhD            GovtJob        1990662   Telangana      18                
+Arranged       29    Male    PhD            Engineer       1260555   Gujarat        7                 
+Love           31    Male    Graduate       GovtJob        1733632   Gujarat        6                 
+Love           36    Male    12th           Teacher        2653787   UP             5                 
+Arranged       34    Female  12th           Teacher        1759039   WB             21                
+Arranged       22    Male    PhD            Business       1416522   Maharashtra    2                 
+Arranged       34    Female  10th           Teacher        1482689   UP             20                
+Arranged       27    Male    Graduate       PrivateJob     2435783   Telangana      24                
+Love           26    Female  Graduate       PrivateJob     438728    Maharashtra    4                 
+Arranged       28    Male    Post Graduate  Doctor         2874439   WB             5                 
+Love           25    Male    10th           Teacher        1922729   Rajasthan      6                 
+Love           21    Male    12th           PrivateJob     2662112   Rajasthan      3                 
+Arranged       38    Male    10th           Engineer       848311    TamilNadu      13                
+Arranged       34    Female  Post Graduate  PrivateJob     860225    Karnataka      23                
+Love           33    Female  12th           Doctor         904465    Karnataka      25                
+Arranged       30    Female  12th           Doctor         940489    Telangana      11                
+Arranged       33    Male    12th           PrivateJob     748636    Delhi          2                 
+Arranged       28    Male    Graduate       Business       2789964   Punjab         10                
+Arranged       33    Male    Graduate       GovtJob        2599086   WB             1                 
+Love           26    Female  PhD            GovtJob        1410556   Maharashtra    11                
+Arranged       34    Male    10th           GovtJob        2372476   Telangana      22                
+Love           23    Male    Graduate       Business       2203700   Delhi          24                
+Arranged       30    Male    Graduate       Teacher        337376    UP             3                 
+Arranged       24    Male    Post Graduate  PrivateJob     773092    Karnataka      9                 
+Love           33    Male    Post Graduate  Doctor         1654776   Delhi          12                
+Love           31    Female  10th           Teacher        2574189   Punjab         8                 
+Arranged       38    Female  Post Graduate  Teacher        2828209   Gujarat        24                
+Arranged       24    Female  Post Graduate  Engineer       998648    Rajasthan      9                 
+Love           35    Female  Graduate       Engineer       2906039   Maharashtra    22                
+Arranged       29    Female  12th           PrivateJob     1678185   Delhi          6                 
+Love           31    Male    Graduate       Teacher        395351    Karnataka      13                
+Arranged       28    Male    10th           Teacher        219864    Maharashtra    24                
+Arranged       35    Female  PhD            PrivateJob     2027040   UP             6                 
+Love           21    Male    Post Graduate  PrivateJob     1867153   Karnataka      22                
+Arranged       34    Male    PhD            GovtJob        2580002   Karnataka      23                
+Love           25    Female  10th           Doctor         2807032   TamilNadu      6                 
+Love           24    Female  PhD            Engineer       1869547   Punjab         11                
+Love           22    Male    Graduate       Doctor         513098    WB             11                
+Arranged       23    Male    Graduate       Doctor         1697739   Gujarat        23                
+Arranged       21    Male    PhD            PrivateJob     1333836   Rajasthan      23                
+Arranged       29    Female  Graduate       Teacher        798344    WB             19                
+Arranged       28    Male    10th           PrivateJob     483164    Maharashtra    18                
+Arranged       30    Female  Post Graduate  PrivateJob     2456140   TamilNadu      9                 
+Arranged       31    Female  12th           Engineer       368839    Punjab         2                 
+Love           24    Female  12th           Business       2292262   Punjab         1                 
+Arranged       23    Female  Graduate       PrivateJob     2832577   Rajasthan      25                
+Love           26    Male    10th           Teacher        912414    Telangana      4                 
+Arranged       27    Male    12th           PrivateJob     288936    UP             2                 
+Love           22    Female  Post Graduate  Teacher        1150492   Telangana      20                
+Love           32    Female  Post Graduate  PrivateJob     736055    WB             9                 
+Love           34    Male    12th           Teacher        1663160   Punjab         14                
+Love           36    Male    10th           PrivateJob     1553932   UP             9                 
+Arranged       28    Female  10th           Doctor         345031    TamilNadu      25                
+Love           24    Male    10th           GovtJob        956668    Delhi          16                
+Arranged       32    Female  12th           Business       2756666   Punjab         15                
+Love           33    Male    Post Graduate  Business       1102525   TamilNadu      22                
+Arranged       35    Female  10th           Business       282316    Punjab         5                 
+Love           31    Male    PhD            Doctor         630414    Delhi          11                
+Love           24    Female  12th           Engineer       1991355   UP             10                
+Arranged       36    Male    PhD            PrivateJob     1591811   Gujarat        23                
+Arranged       37    Female  PhD            PrivateJob     2172663   Karnataka      22                
+Arranged       34    Male    PhD            GovtJob        1878363   UP             13                
+Arranged       26    Male    12th           Business       2467208   Telangana      25                
+Love           23    Male    12th           Engineer       2021547   Telangana      1                 
+Love           25    Male    10th           GovtJob        894587    Maharashtra    16                
+Arranged       29    Female  Graduate       Teacher        2305007   Telangana      5                 
+Arranged       21    Female  Post Graduate  PrivateJob     792953    Delhi          24                
+Arranged       28    Male    Graduate       PrivateJob     2528693   WB             13                
+Love           37    Female  Post Graduate  PrivateJob     1867338   WB             12                
+Arranged       32    Male    10th           GovtJob        2780086   Telangana      11                
+Love           24    Male    PhD            Engineer       1976926   WB             2                 
+Love           21    Male    PhD            Teacher        1392894   Punjab         16                
+Arranged       28    Female  PhD            Engineer       1324005   Maharashtra    15                
+Love           34    Female  Post Graduate  Teacher        1468787   Maharashtra    4                 
+Love           38    Male    10th           PrivateJob     1671934   Delhi          23                
+Love           25    Female  12th           Engineer       1104427   Punjab         12                
+Love           33    Male    PhD            Engineer       2237012   Karnataka      16                
+Arranged       36    Male    12th           GovtJob        1245399   Karnataka      18                
+Love           24    Male    PhD            Engineer       1773260   Gujarat        23                
+Arranged       29    Male    12th           Doctor         564506    WB             25                
+Arranged       37    Male    Post Graduate  Business       2111677   TamilNadu      4                 
+Arranged       26    Male    Post Graduate  Teacher        531176    WB             24                
+Arranged       30    Female  12th           Teacher        870026    Rajasthan      18                
+Love           27    Female  Graduate       Business       1343874   Karnataka      10                
+Love           24    Male    Post Graduate  Teacher        1705664   UP             7                 
+Love           32    Female  Graduate       Business       2929285   Delhi          2                 
+Arranged       37    Female  Post Graduate  Doctor         1462176   TamilNadu      1                 
+Arranged       23    Female  10th           GovtJob        2121198   Punjab         18                
+Love           32    Female  12th           Business       1930862   TamilNadu      23                
+Love           24    Female  Post Graduate  Teacher        2147553   Maharashtra    14                
+Arranged       21    Male    Graduate       Business       1514523   UP             2                 
+Arranged       33    Male    12th           GovtJob        1537831   WB             14                
+Love           26    Male    12th           GovtJob        911467    Punjab         17                
+Arranged       31    Male    Post Graduate  GovtJob        1889077   Rajasthan      11                
+Arranged       27    Male    Post Graduate  Teacher        2604524   Maharashtra    10                
+Arranged       31    Female  10th           Doctor         1849743   Maharashtra    14                
+Love           37    Male    Graduate       Business       1891846   Punjab         25                
+Arranged       27    Male    12th           Business       279137    TamilNadu      21                
+Arranged       26    Female  12th           PrivateJob     797599    Delhi          25                
+Arranged       31    Male    12th           Doctor         2331448   Telangana      3                 
+Arranged       34    Female  Post Graduate  Teacher        1760468   UP             23                
+Arranged       22    Male    12th           PrivateJob     523709    Maharashtra    3                 
+Love           26    Female  PhD            Teacher        2339670   Telangana      16                
+Love           24    Male    Post Graduate  PrivateJob     1046935   WB             15                
+Love           35    Male    Graduate       GovtJob        2391471   Gujarat        5                 
+Arranged       24    Female  Post Graduate  Engineer       1240407   UP             6                 
+Love           33    Male    10th           Business       1527155   UP             7                 
+Arranged       34    Male    Post Graduate  PrivateJob     1582050   WB             24                
+Arranged       29    Male    12th           GovtJob        1946420   WB             0                 
+Arranged       38    Female  10th           PrivateJob     1577277   UP             7                 
+Arranged       34    Male    Graduate       Engineer       751854    UP             5                 
+Love           21    Female  PhD            Business       332147    WB             10                
+Arranged       32    Male    Graduate       PrivateJob     2736822   Maharashtra    22                
+Love           33    Male    10th           Business       1741350   TamilNadu      9                 
+Arranged       30    Male    Graduate       Teacher        839670    Karnataka      3                 
+Love           29    Female  10th           Teacher        1465101   Karnataka      20                
+Love           29    Male    Post Graduate  Teacher        1333635   Punjab         10                
+Love           21    Female  PhD            PrivateJob     497323    Maharashtra    7                 
+Love           33    Male    Graduate       PrivateJob     906561    UP             10                
+Arranged       29    Female  12th           Teacher        1754708   UP             24                
+Arranged       36    Male    Graduate       Engineer       1570101   Maharashtra    18                
+Love           28    Male    Graduate       GovtJob        2489545   UP             0                 
+Arranged       37    Male    PhD            PrivateJob     1755282   Gujarat        7                 
+Arranged       29    Male    10th           GovtJob        1186023   Telangana      0                 
+Love           33    Female  12th           GovtJob        965295    TamilNadu      13                
+Arranged       29    Male    PhD            Doctor         2190394   Karnataka      12                
+Love           21    Male    PhD            Doctor         592256    Gujarat        8                 
+Love           25    Male    12th           PrivateJob     1601196   Telangana      24                
+Arranged       38    Female  PhD            Doctor         2006146   UP             16                
+Love           36    Female  12th           Engineer       1287608   Maharashtra    18                
+Love           38    Male    12th           Doctor         1433291   Karnataka      13                
+Arranged       33    Male    Post Graduate  PrivateJob     2412997   TamilNadu      19                
+Arranged       38    Male    Graduate       Teacher        2368993   Maharashtra    25                
+Arranged       32    Male    10th           Teacher        2328659   Delhi          22                
+Love           26    Male    10th           Teacher        388397    Rajasthan      20                
+Arranged       26    Male    Graduate       PrivateJob     231474    TamilNadu      24                
+Arranged       32    Male    PhD            Business       634735    Karnataka      7                 
+Arranged       25    Male    PhD            GovtJob        2759147   Delhi          5                 
+Love           36    Male    12th           Business       1444191   Telangana      25                
+Arranged       31    Male    PhD            Teacher        2411197   WB             0                 
+Arranged       36    Male    12th           Doctor         2982347   Gujarat        6                 
+Arranged       34    Female  Post Graduate  GovtJob        356740    Karnataka      18                
+Love           27    Female  PhD            Doctor         2976057   TamilNadu      1                 
+Arranged       30    Female  12th           Engineer       713764    Maharashtra    0                 
+Love           24    Male    Graduate       Teacher        641446    Rajasthan      25                
+Arranged       31    Female  12th           GovtJob        2779290   WB             14                
+Love           26    Male    Post Graduate  Engineer       2478686   Punjab         2                 
+Arranged       27    Female  Post Graduate  PrivateJob     2086294   WB             1                 
+Arranged       25    Female  Post Graduate  Business       1110883   Karnataka      16                
+Arranged       37    Male    PhD            PrivateJob     596562    TamilNadu      22                
+Arranged       30    Female  Post Graduate  Engineer       316284    Rajasthan      23                
+Love           36    Female  Graduate       GovtJob        1423352   Gujarat        7                 
+Love           29    Female  PhD            Doctor         2339242   Karnataka      0                 
+Arranged       27    Female  PhD            PrivateJob     760112    Maharashtra    8                 
+Arranged       27    Female  Post Graduate  Business       851328    UP             9                 
+Love           23    Female  10th           PrivateJob     985214    Gujarat        19                
+Arranged       30    Male    PhD            PrivateJob     2854812   Maharashtra    13                
+Arranged       21    Female  Post Graduate  PrivateJob     459525    TamilNadu      17                
+Love           26    Male    Graduate       Business       822952    Rajasthan      21                
+Arranged       36    Female  Graduate       PrivateJob     393772    Telangana      18                
+Love           23    Female  PhD            Engineer       2824033   Rajasthan      7                 
+Arranged       28    Female  Graduate       GovtJob        2103063   TamilNadu      13                
+Love           38    Male    12th           PrivateJob     2658080   WB             14                
+Love           23    Female  10th           Teacher        2415990   WB             25                
+Love           25    Male    Post Graduate  Engineer       2170055   WB             11                
+Arranged       21    Male    Post Graduate  Business       2234470   Rajasthan      10                
+Love           37    Male    Post Graduate  Engineer       2091318   Rajasthan      5                 
+Arranged       28    Female  PhD            GovtJob        1921979   Telangana      3                 
+Arranged       31    Female  Post Graduate  Teacher        346026    Maharashtra    17                
+Arranged       36    Male    Post Graduate  GovtJob        388905    Telangana      23                
+Love           24    Female  PhD            Doctor         2290441   Punjab         10                
+Arranged       28    Male    10th           Teacher        2928760   Karnataka      3                 
+Love           26    Male    PhD            Teacher        2184864   WB             0                 
+Love           32    Male    PhD            Engineer       717625    Maharashtra    9                 
+Love           30    Female  12th           PrivateJob     2931516   UP             15                
+Love           37    Male    Graduate       Doctor         2454188   UP             1                 
+Arranged       23    Male    Graduate       Teacher        1595128   Punjab         16                
+Love           23    Male    PhD            PrivateJob     1122072   Telangana      3                 
+Love           30    Male    PhD            Business       2564837   WB             12                
+Arranged       35    Male    12th           Business       1406052   Delhi          0                 
+Arranged       32    Male    Post Graduate  Business       1638878   Punjab         5                 
+Arranged       36    Female  Post Graduate  Teacher        291969    Karnataka      2                 
+Arranged       22    Male    10th           Engineer       678160    Punjab         7                 
+Arranged       34    Male    Post Graduate  Engineer       749438    Gujarat        13                
+Arranged       28    Female  Post Graduate  Doctor         1405576   Delhi          4                 
+Arranged       22    Male    12th           GovtJob        2627787   Telangana      15                
+Love           30    Female  10th           Business       1301304   Punjab         22                
+Arranged       30    Female  Post Graduate  Doctor         1388277   Rajasthan      23                
+Arranged       37    Male    Graduate       PrivateJob     2389060   Delhi          15                
+Arranged       26    Female  PhD            Doctor         1141178   Telangana      24                
+Love           23    Male    10th           Doctor         450261    Karnataka      12                
+Love           28    Female  Post Graduate  PrivateJob     1171237   Rajasthan      0                 
+Love           37    Male    Post Graduate  PrivateJob     1112642   TamilNadu      4                 
+Love           27    Male    Graduate       GovtJob        211308    Rajasthan      25                
+Arranged       33    Female  Post Graduate  Engineer       2865322   Delhi          5                 
+Arranged       35    Female  10th           GovtJob        332737    WB             14                
+Love           35    Female  PhD            PrivateJob     1528481   Karnataka      19                
+Love           33    Male    Graduate       Engineer       2865068   Telangana      5                 
+Arranged       21    Male    PhD            Doctor         2569554   UP             0                 
+Arranged       33    Female  Post Graduate  Business       1350467   UP             9                 
+Love           23    Female  12th           Doctor         995014    TamilNadu      13                
+Love           32    Male    PhD            Engineer       2595038   Maharashtra    6                 
+Arranged       26    Male    10th           GovtJob        433266    UP             2                 
+Love           33    Male    Graduate       Business       604037    UP             23                
+Love           32    Male    PhD            GovtJob        524432    TamilNadu      22                
+Arranged       24    Female  PhD            PrivateJob     1160255   WB             8                 
+Love           33    Female  Graduate       Business       1423946   UP             21                
+Love           31    Female  Post Graduate  PrivateJob     2993895   Karnataka      20                
+Love           21    Female  10th           PrivateJob     1913775   WB             7                 
+Love           34    Male    Post Graduate  Teacher        1924805   Punjab         11                
+Arranged       28    Male    Post Graduate  Doctor         2637096   Maharashtra    11                
+Arranged       32    Female  12th           Doctor         642189    TamilNadu      14                
+Love           26    Male    PhD            GovtJob        965602    Punjab         1                 
+Love           33    Female  Post Graduate  GovtJob        2265913   Telangana      11                
+Love           25    Female  10th           Engineer       1530863   Telangana      20                
+Arranged       33    Male    Post Graduate  Doctor         2470749   Telangana      15                
+Arranged       37    Male    Post Graduate  GovtJob        317641    Gujarat        2                 
+Love           27    Male    Post Graduate  Doctor         2011546   Gujarat        10                
+Love           33    Male    Post Graduate  Engineer       1556323   WB             22                
+Love           35    Male    Post Graduate  Teacher        972954    UP             11                
+Love           31    Female  10th           GovtJob        355626    Telangana      20                
+Arranged       38    Male    12th           Engineer       1417825   Punjab         14                
+Love           25    Male    PhD            Engineer       1409926   Karnataka      19                
+Love           28    Male    PhD            PrivateJob     1332765   Karnataka      18                
+Arranged       37    Female  Post Graduate  Business       329792    Karnataka      11                
+Arranged       30    Male    12th           Engineer       2959489   WB             19                
+Love           34    Male    PhD            Doctor         2885615   Punjab         1                 
+Love           24    Male    Graduate       Doctor         1701586   Delhi          5                 
+Arranged       25    Female  Post Graduate  GovtJob        1915339   Delhi          3                 
+Arranged       30    Male    PhD            Business       720081    UP             9                 
+Arranged       21    Male    12th           Business       266741    UP             18                
+Love           25    Female  PhD            GovtJob        284281    WB             4                 
+Love           38    Male    PhD            PrivateJob     2644120   Punjab         4                 
+Arranged       22    Female  10th           Teacher        2815239   Karnataka      6                 
+Arranged       38    Male    Post Graduate  Business       484965    WB             18                
+Arranged       36    Male    Graduate       GovtJob        249931    WB             5                 
+Love           34    Female  10th           Doctor         326957    Maharashtra    10                
+Arranged       27    Male    PhD            Business       1553929   Rajasthan      13                
+Love           21    Male    Graduate       GovtJob        2216308   Punjab         4                 
+Arranged       30    Female  10th           Business       2419552   Rajasthan      7                 
+Love           35    Female  Post Graduate  Engineer       253967    Delhi          11                
+Arranged       24    Female  10th           Teacher        1515465   Punjab         1                 
+Love           26    Female  Post Graduate  GovtJob        658594    WB             6                 
+Love           24    Female  PhD            PrivateJob     1183752   Punjab         17                
+Arranged       36    Female  Graduate       Teacher        2876957   Rajasthan      16                
+Arranged       21    Male    Post Graduate  Business       610699    WB             14                
+Love           29    Female  PhD            GovtJob        1383323   Maharashtra    5                 
+Arranged       37    Female  Post Graduate  Engineer       2464947   WB             17                
+Love           28    Male    12th           Business       2152280   Rajasthan      24                
+Love           37    Female  10th           Business       1367733   Maharashtra    12                
+Arranged       36    Female  PhD            Engineer       1405892   Punjab         3                 
+Love           29    Male    10th           Teacher        1696978   Maharashtra    9                 
+Arranged       32    Female  12th           GovtJob        2187828   Maharashtra    24                
+Arranged       28    Male    Post Graduate  Doctor         2947991   UP             7                 
+Love           35    Female  Graduate       Business       846981    Gujarat        12                
+Arranged       35    Male    PhD            Engineer       2898219   Telangana      0                 
+Love           24    Male    Graduate       PrivateJob     1462323   Rajasthan      20                
+Love           30    Female  10th           GovtJob        1097792   Telangana      8                 
+Arranged       21    Female  PhD            Engineer       431719    Rajasthan      18                
+Arranged       30    Female  Post Graduate  PrivateJob     2383914   WB             23                
+Arranged       38    Female  Post Graduate  PrivateJob     777626    Karnataka      24                
+Arranged       33    Female  12th           Teacher        269136    WB             1                 
+Love           33    Male    Post Graduate  Teacher        2827677   WB             9                 
+Arranged       23    Male    Post Graduate  PrivateJob     1479221   Maharashtra    0                 
+Arranged       25    Male    PhD            Doctor         1214704   WB             23                
+Arranged       23    Female  Post Graduate  PrivateJob     815298    Maharashtra    18                
+Arranged       27    Male    Graduate       Engineer       2112180   UP             10                
+Love           32    Female  Graduate       PrivateJob     981354    Telangana      22                
+Love           22    Female  10th           Teacher        1997106   Karnataka      15                
+Love           30    Male    Post Graduate  Engineer       1573282   TamilNadu      12                
+Love           22    Male    12th           PrivateJob     2675936   TamilNadu      24                
+Arranged       36    Female  Graduate       GovtJob        1572502   Rajasthan      21                
+Arranged       21    Male    10th           Doctor         2358695   Gujarat        0                 
+Love           36    Female  Graduate       PrivateJob     2697088   Punjab         2                 
+Love           26    Male    12th           Teacher        1609185   Delhi          20                
+Arranged       35    Female  Post Graduate  Business       466545    Telangana      22                
+Love           29    Female  Post Graduate  Teacher        790435    Karnataka      20                
+Arranged       34    Female  12th           Doctor         529916    Karnataka      19                
+Love           34    Female  Post Graduate  Doctor         2085865   Karnataka      3                 
+Love           36    Female  PhD            PrivateJob     1080854   Delhi          12                
+Arranged       27    Female  Graduate       Doctor         2982903   Delhi          7                 
+Love           32    Female  Post Graduate  PrivateJob     963635    Punjab         0                 
+Arranged       26    Male    12th           Doctor         2992055   Delhi          1                 
+Arranged       37    Female  Graduate       Business       2975592   Maharashtra    14                
+Love           26    Female  Graduate       Teacher        609566    Gujarat        10                
+Arranged       38    Male    Post Graduate  Business       310236    WB             10                
+Love           34    Male    10th           Doctor         816111    TamilNadu      6                 
+Love           25    Male    Post Graduate  PrivateJob     1453898   WB             22                
+Love           28    Male    Post Graduate  PrivateJob     2856960   WB             11                
+Arranged       21    Female  12th           Teacher        2579583   Gujarat        17                
+Arranged       24    Female  10th           Business       2918409   Punjab         8                 
+Arranged       21    Female  PhD            GovtJob        671499    Delhi          19                
+Arranged       36    Male    Graduate       Teacher        2925582   Telangana      4                 
+Arranged       29    Male    PhD            GovtJob        1195057   Punjab         21                
+Arranged       32    Female  10th           Engineer       1851017   TamilNadu      2                 
+Arranged       28    Female  10th           GovtJob        1072552   Gujarat        7                 
+Love           35    Female  Post Graduate  Business       2311916   Telangana      16                
+Love           32    Male    Post Graduate  Engineer       1926968   UP             8                 
+Arranged       33    Male    Post Graduate  Engineer       1153884   Gujarat        5                 
+Arranged       31    Female  PhD            Business       1352883   WB             20                
+Arranged       27    Female  Graduate       Doctor         1468055   Punjab         15                
+Arranged       34    Female  12th           Doctor         1752024   Karnataka      1                 
+Arranged       38    Male    PhD            Engineer       547534    Punjab         8                 
+Arranged       27    Female  12th           Teacher        1546345   UP             24                
+Arranged       31    Female  10th           PrivateJob     2178674   Rajasthan      18                
+Arranged       35    Female  10th           GovtJob        216327    TamilNadu      16                
+Love           22    Male    10th           Business       394112    TamilNadu      24                
+Arranged       28    Male    PhD            GovtJob        2974738   UP             23                
+Love           33    Male    PhD            Business       765856    TamilNadu      3                 
+Arranged       35    Male    Graduate       GovtJob        1056795   Delhi          18                
+Love           26    Male    Graduate       Teacher        612476    Delhi          15                
+Arranged       29    Female  PhD            Doctor         333919    WB             0                 
+Arranged       29    Male    PhD            Doctor         2872723   Rajasthan      3                 
+Love           24    Male    PhD            GovtJob        2005810   Punjab         25                
+Arranged       26    Female  10th           Teacher        1435398   UP             3                 
+Arranged       29    Female  10th           Doctor         1718654   Punjab         9                 
+Love           36    Female  10th           Business       759318    Maharashtra    3                 
+Love           35    Male    10th           Engineer       402431    Delhi          15                
+Love           34    Female  Graduate       Teacher        1121894   Telangana      9                 
+Love           38    Male    12th           Business       2271803   TamilNadu      13                
+Arranged       38    Male    12th           Engineer       2247903   Rajasthan      25                
+Love           31    Male    10th           GovtJob        2577681   UP             19                
+Love           28    Female  10th           Business       886172    Rajasthan      3                 
+Arranged       21    Female  Graduate       Teacher        2392316   Telangana      25                
+Arranged       29    Female  PhD            GovtJob        932003    Rajasthan      18                
+Love           38    Female  Post Graduate  PrivateJob     1680999   Gujarat        11                
+Arranged       37    Female  Graduate       Teacher        603718    UP             4                 
+Arranged       29    Male    Graduate       Business       2709873   Karnataka      2                 
+Arranged       36    Male    10th           Doctor         2849013   TamilNadu      6                 
+Love           26    Female  Post Graduate  Teacher        2753465   Maharashtra    10                
+Arranged       28    Male    Post Graduate  GovtJob        2472577   Delhi          2                 
+Arranged       37    Female  12th           PrivateJob     1100797   Delhi          15                
+Arranged       37    Female  PhD            Teacher        2995329   UP             11                
+Arranged       24    Female  Graduate       Engineer       1801531   TamilNadu      5                 
+Arranged       29    Male    PhD            GovtJob        2707699   Rajasthan      8                 
+Love           36    Female  Post Graduate  GovtJob        2291556   Maharashtra    13                
+Arranged       38    Male    12th           Engineer       1083039   Rajasthan      18                
+Love           38    Male    PhD            Teacher        1455702   Punjab         17                
+Love           22    Male    10th           Doctor         901388    Delhi          24                
+Arranged       29    Male    Graduate       Business       524270    Maharashtra    24                
+Arranged       36    Female  Graduate       PrivateJob     2236377   TamilNadu      5                 
+Arranged       34    Male    10th           Business       229572    UP             0                 
+Love           34    Female  Graduate       PrivateJob     642731    UP             2                 
+Arranged       30    Male    12th           Doctor         1489166   TamilNadu      2                 
+Love           24    Female  PhD            Engineer       2930113   Delhi          25                
+Love           35    Female  10th           PrivateJob     645589    WB             22                
+Love           22    Male    12th           Teacher        729292    Gujarat        25                
+Arranged       38    Female  PhD            Doctor         991193    TamilNadu      14                
+Love           22    Female  Post Graduate  PrivateJob     1415139   Karnataka      14                
+Arranged       34    Female  Graduate       PrivateJob     2243651   WB             12                
+Love           22    Female  Post Graduate  Business       233720    UP             23                
+Arranged       33    Female  12th           Teacher        956652    Karnataka      25                
+Arranged       22    Male    PhD            GovtJob        272482    Maharashtra    23                
+Arranged       35    Male    Post Graduate  Doctor         301990    UP             24                
+Arranged       21    Male    12th           Business       2238687   WB             2                 
+Arranged       28    Female  Graduate       Doctor         2229534   Delhi          2                 
+Arranged       31    Female  Graduate       Engineer       457816    WB             23                
+Love           24    Male    12th           Teacher        1949410   TamilNadu      6                 
+Arranged       35    Male    Graduate       Business       2915923   WB             15                
+Love           22    Male    Graduate       Business       598335    Gujarat        24                
+Love           31    Male    Post Graduate  GovtJob        1375551   Rajasthan      7                 
+Arranged       28    Male    Post Graduate  Engineer       1486695   Punjab         10                
+Love           28    Male    Post Graduate  PrivateJob     482390    WB             20                
+Love           30    Female  Graduate       Business       2620624   Gujarat        16                
+Love           25    Male    Post Graduate  GovtJob        948232    Punjab         25                
+Arranged       36    Female  10th           PrivateJob     1456065   WB             22                
+Love           36    Female  PhD            Doctor         1742546   Karnataka      8                 
+Arranged       29    Female  Graduate       GovtJob        518938    Gujarat        19                
+Arranged       32    Female  PhD            Teacher        743216    TamilNadu      20                
+Arranged       34    Male    Graduate       PrivateJob     1197113   Gujarat        7                 
+Arranged       30    Female  Post Graduate  GovtJob        641944    Gujarat        12                
+Arranged       31    Male    10th           Business       1031635   Rajasthan      15                
+Love           22    Male    10th           Teacher        287252    Gujarat        5                 
+Love           25    Female  PhD            Doctor         1768211   Telangana      2                 
+Love           32    Female  12th           Teacher        1938005   Maharashtra    6                 
+Love           26    Male    12th           Doctor         2765935   Maharashtra    22                
+Love           25    Female  Graduate       GovtJob        1044066   WB             15                
+Arranged       25    Female  Graduate       PrivateJob     1751347   Rajasthan      2                 
+Love           27    Female  PhD            Engineer       991625    TamilNadu      21                
+Arranged       38    Female  12th           GovtJob        2844708   Punjab         24                
+Love           32    Female  10th           GovtJob        248153    Punjab         3                 
+Arranged       32    Female  Graduate       Doctor         2660957   Gujarat        13                
+Love           27    Female  Graduate       Engineer       2118534   UP             3                 
+Love           24    Male    Graduate       Teacher        209845    Gujarat        17                
+Love           22    Male    10th           GovtJob        1028299   TamilNadu      23                
+Arranged       38    Female  PhD            Doctor         2423963   Telangana      7                 
+Love           31    Female  10th           Doctor         305727    UP             19                
+Arranged       24    Female  12th           Doctor         2663792   Maharashtra    14                
+Arranged       26    Female  Post Graduate  PrivateJob     836081    TamilNadu      2                 
+Arranged       25    Male    10th           Business       1860076   Karnataka      12                
+Love           30    Male    12th           Doctor         2671785   Maharashtra    11                
+Love           37    Male    10th           Business       1284006   Maharashtra    6                 
+Arranged       38    Female  PhD            Engineer       1423950   Maharashtra    13                
+Arranged       36    Female  PhD            Business       2029479   TamilNadu      23                
+Love           36    Female  PhD            Business       519310    UP             13                
+Love           35    Female  10th           Doctor         633902    UP             9                 
+Love           28    Female  Post Graduate  Business       2459819   WB             7                 
+Arranged       33    Female  Post Graduate  Doctor         1722933   Karnataka      16                
+Arranged       24    Female  PhD            Doctor         310214    Karnataka      11                
+Love           35    Male    PhD            Doctor         603884    Punjab         12                
+Love           34    Male    PhD            GovtJob        712903    TamilNadu      5                 
+Love           37    Female  10th           Doctor         1858305   UP             5                 
+Arranged       35    Male    Post Graduate  Doctor         364568    TamilNadu      11                
+Love           26    Female  Post Graduate  Business       709844    TamilNadu      22                
+Love           32    Female  12th           Teacher        2766475   UP             21                
+Love           24    Female  Post Graduate  Engineer       1188968   Rajasthan      15                
+Arranged       35    Female  PhD            PrivateJob     2739327   UP             10                
+Arranged       32    Male    PhD            PrivateJob     1033818   Rajasthan      4                 
+Love           31    Male    10th           PrivateJob     2715946   Punjab         25                
+Love           35    Male    Post Graduate  Engineer       2501790   Karnataka      7                 
+Arranged       24    Male    Graduate       Teacher        802120    Karnataka      0                 
+Arranged       35    Male    Graduate       GovtJob        1944141   TamilNadu      7                 
+Love           27    Male    12th           Business       2143208   Delhi          12                
+Arranged       32    Male    Graduate       Business       2946580   Rajasthan      9                 
+Love           29    Male    Post Graduate  Engineer       2098744   TamilNadu      23                
+Love           31    Female  12th           Engineer       2359904   TamilNadu      3                 
+Arranged       35    Male    PhD            Engineer       2378429   Rajasthan      5                 
+Arranged       23    Male    Post Graduate  PrivateJob     778070    Delhi          21                
+Arranged       38    Male    10th           GovtJob        517570    Maharashtra    12                
+Arranged       34    Male    12th           Teacher        1556523   Punjab         24                
+Love           33    Male    Post Graduate  Engineer       1671664   Delhi          18                
+Arranged       25    Male    PhD            GovtJob        853940    TamilNadu      23                
+Arranged       26    Male    PhD            GovtJob        2925308   WB             19                
+Arranged       33    Male    10th           Doctor         487217    Telangana      3                 
+Love           22    Female  12th           Teacher        2717761   TamilNadu      23                
+Love           34    Male    PhD            GovtJob        2272585   Rajasthan      9                 
+Arranged       22    Female  12th           Teacher        1683792   WB             2                 
+Love           22    Male    Graduate       Engineer       1386908   Punjab         11                
+Arranged       28    Female  10th           GovtJob        1646777   WB             13                
+Love           38    Female  Post Graduate  Teacher        1690640   Maharashtra    5                 
+Arranged       37    Female  PhD            Engineer       1933810   UP             1                 
+Love           24    Male    Graduate       Doctor         1647595   Punjab         22                
+Love           34    Male    Graduate       GovtJob        2872325   Karnataka      5                 
+Arranged       38    Female  PhD            Doctor         2281421   Telangana      6                 
+Love           21    Female  Graduate       Engineer       364147    Punjab         22                
+Arranged       32    Male    12th           GovtJob        830430    TamilNadu      7                 
+Arranged       25    Female  PhD            Teacher        1020384   Gujarat        20                
+Arranged       26    Female  12th           PrivateJob     1289040   Rajasthan      13                
+Love           34    Male    PhD            Business       1885913   Telangana      15                
+Love           32    Female  Graduate       Teacher        2679285   Gujarat        22                
+Love           23    Female  Graduate       Business       901123    Karnataka      6                 
+Love           37    Male    10th           Business       2894524   Telangana      18                
+Love           23    Female  Post Graduate  Doctor         2342119   Gujarat        22                
+Love           37    Male    PhD            PrivateJob     971999    Rajasthan      13                
+Love           27    Female  Graduate       PrivateJob     2497739   Karnataka      12                
+Arranged       27    Male    PhD            GovtJob        1946561   Karnataka      22                
+Arranged       37    Female  PhD            Teacher        2250305   TamilNadu      0                 
+Love           34    Female  10th           PrivateJob     1970000   Delhi          24                
+Arranged       30    Female  Post Graduate  Business       2441835   Gujarat        14                
+Love           25    Female  Post Graduate  Doctor         1580603   WB             14                
+Love           28    Male    10th           Business       2808621   TamilNadu      17                
+Arranged       30    Female  Post Graduate  PrivateJob     1966714   Punjab         11                
+Arranged       36    Female  Post Graduate  Business       651232    WB             23                
+Arranged       29    Female  10th           PrivateJob     1896134   TamilNadu      17                
+Arranged       24    Female  10th           GovtJob        1926941   Telangana      11                
+Arranged       33    Male    12th           Doctor         2503566   TamilNadu      8                 
+Arranged       30    Male    Graduate       PrivateJob     1187894   WB             8                 
+Arranged       22    Male    10th           Doctor         397054    WB             7                 
+Arranged       26    Female  Post Graduate  Teacher        2299969   Rajasthan      19                
+Love           22    Female  10th           Doctor         1399579   Rajasthan      18                
+Love           29    Female  12th           Business       1066313   TamilNadu      4                 
+Love           21    Male    Post Graduate  Business       1867164   Maharashtra    4                 
+Love           26    Male    12th           Teacher        747863    Punjab         25                
+Arranged       36    Male    Graduate       GovtJob        1643544   TamilNadu      23                
+Love           27    Female  10th           Doctor         1067505   Delhi          7                 
+Arranged       38    Male    Graduate       GovtJob        2015462   Rajasthan      15                
+Arranged       34    Female  Post Graduate  PrivateJob     1559844   Punjab         11                
+Arranged       21    Female  10th           Doctor         2732725   TamilNadu      1                 
+Arranged       25    Male    Post Graduate  GovtJob        371478    WB             15                
+Arranged       27    Male    PhD            Engineer       2711404   UP             6                 
+Love           32    Female  12th           GovtJob        1086911   Rajasthan      25                
+Arranged       38    Male    Graduate       Engineer       1942216   Rajasthan      23                
+Love           31    Female  10th           Business       2045580   Rajasthan      21                
+Arranged       27    Male    12th           GovtJob        2420702   Gujarat        7                 
+Love           36    Male    Graduate       GovtJob        1504428   WB             9                 
+Arranged       33    Female  10th           Business       866490    Rajasthan      3                 
+Arranged       35    Male    Graduate       Engineer       773125    Rajasthan      17                
+Love           22    Female  Graduate       Engineer       2070695   Telangana      24                
+Love           38    Male    PhD            Engineer       1847195   Karnataka      3                 
+Arranged       23    Male    12th           Engineer       2458625   Gujarat        25                
+Love           22    Female  12th           PrivateJob     525481    Rajasthan      15                
+Love           23    Female  Post Graduate  Doctor         1338520   Telangana      8                 
+Arranged       38    Male    10th           Doctor         668305    TamilNadu      14                
+Arranged       24    Female  Post Graduate  Business       560593    TamilNadu      19                
+Arranged       27    Male    Graduate       Engineer       2364813   UP             7                 
+Love           31    Male    PhD            Business       1738518   Karnataka      17                
+Arranged       29    Male    Graduate       Teacher        1262142   Telangana      25                
+Love           36    Male    Post Graduate  Engineer       1786986   WB             24                
+Arranged       28    Male    PhD            PrivateJob     2448547   Delhi          18                
+Love           25    Female  PhD            PrivateJob     754229    Gujarat        9                 
+Arranged       32    Female  PhD            PrivateJob     1164411   Punjab         7                 
+Love           22    Female  Graduate       Doctor         1301087   Punjab         0                 
+Arranged       29    Male    Post Graduate  Teacher        2766851   Maharashtra    4                 
+Arranged       30    Male    PhD            Doctor         1968277   Delhi          11                
+Love           21    Male    12th           Teacher        1910794   Telangana      16                
+Arranged       35    Female  10th           Business       2118012   UP             25                
+Arranged       26    Male    10th           Teacher        2609225   Punjab         18                
+Love           29    Male    Post Graduate  PrivateJob     2497604   Rajasthan      10                
+Arranged       22    Female  PhD            Teacher        1962939   TamilNadu      7                 
+Arranged       31    Female  PhD            PrivateJob     2940909   TamilNadu      12                
+Love           29    Female  PhD            Business       559122    WB             9                 
+Arranged       29    Male    10th           Engineer       387264    UP             24                
+Arranged       28    Male    PhD            Teacher        1388705   Rajasthan      1                 
+Arranged       22    Female  PhD            GovtJob        826071    UP             3                 
+Love           38    Male    10th           Engineer       1055276   TamilNadu      25                
+Arranged       37    Female  12th           PrivateJob     843482    Rajasthan      17                
+Arranged       36    Male    12th           Engineer       851052    Delhi          3                 
+Arranged       31    Male    10th           GovtJob        804394    Punjab         8                 
+Arranged       33    Male    10th           GovtJob        2021363   TamilNadu      9                 
+Arranged       26    Male    10th           Business       2271461   TamilNadu      11                
+Love           37    Female  Post Graduate  Engineer       1280344   UP             18                
+Arranged       22    Male    Post Graduate  Business       1020816   Karnataka      20                
+Arranged       28    Male    12th           PrivateJob     2748747   Punjab         24                
+Arranged       24    Female  10th           Doctor         2829991   TamilNadu      5                 
+Arranged       34    Male    10th           Doctor         2873515   Punjab         0                 
+Arranged       28    Male    PhD            Engineer       1655076   WB             8                 
+Arranged       37    Male    PhD            Teacher        499815    Rajasthan      12                
+Arranged       27    Male    Graduate       Business       1474995   Punjab         15                
+Arranged       25    Female  Graduate       GovtJob        611055    UP             4                 
+Love           36    Female  Graduate       GovtJob        354551    Punjab         3                 
+Love           33    Female  10th           Teacher        483057    TamilNadu      2                 
+Arranged       24    Female  Graduate       PrivateJob     1346772   WB             11                
+Arranged       31    Male    10th           GovtJob        2308807   Delhi          2                 
+Love           25    Female  12th           PrivateJob     2178607   Maharashtra    18                
+Arranged       25    Male    Graduate       Engineer       1630591   WB             6                 
+Arranged       37    Female  12th           PrivateJob     2496496   Rajasthan      18                
+Arranged       35    Female  PhD            Business       2889546   UP             23                
+Love           34    Female  Graduate       Doctor         2636439   Karnataka      11                
+Arranged       27    Male    12th           Doctor         585811    Telangana      24                
+Arranged       35    Male    PhD            Doctor         2013567   TamilNadu      0                 
+Love           29    Male    Post Graduate  Engineer       2127786   Gujarat        11                
+Arranged       21    Female  10th           Doctor         224540    Karnataka      7                 
+Love           22    Female  PhD            Teacher        2340334   Punjab         15                
+Arranged       25    Female  Graduate       PrivateJob     831706    TamilNadu      19                
+Love           30    Female  PhD            Doctor         652032    UP             22                
+Arranged       25    Male    12th           PrivateJob     1246851   Telangana      12                
+Love           23    Male    Graduate       PrivateJob     2020254   TamilNadu      8                 
+Arranged       36    Male    10th           GovtJob        1746804   Gujarat        8                 
+Love           22    Female  Graduate       Doctor         1667435   Telangana      14                
+Arranged       29    Female  10th           Business       2008780   Delhi          25                
+Love           27    Female  PhD            PrivateJob     1376388   Telangana      14                
+Love           28    Male    10th           GovtJob        1658074   Gujarat        0                 
+Arranged       28    Female  PhD            Teacher        812882    Delhi          13                
+Arranged       21    Male    12th           Doctor         2908277   Maharashtra    11                
+Arranged       23    Female  12th           Teacher        323666    Delhi          12                
+Love           29    Male    PhD            Engineer       2425337   Gujarat        25                
+Love           25    Male    12th           Engineer       1337010   Gujarat        19                
+Arranged       22    Male    12th           GovtJob        1791583   TamilNadu      4                 
+Arranged       30    Male    Graduate       GovtJob        264500    Gujarat        18                
+Arranged       35    Male    Graduate       Teacher        599186    UP             12                
+Arranged       31    Female  PhD            PrivateJob     291979    Rajasthan      9                 
+Love           37    Female  PhD            Doctor         837913    WB             8                 
+Arranged       35    Female  12th           Teacher        1564447   Karnataka      9                 
+Love           36    Female  Post Graduate  GovtJob        1221847   UP             2                 
+Arranged       31    Female  Graduate       PrivateJob     1192783   WB             22                
+Love           37    Male    10th           Teacher        1533851   WB             25                
+Love           32    Male    12th           GovtJob        2446506   Telangana      3                 
+Arranged       33    Female  Graduate       Teacher        2213904   UP             22                
+Arranged       22    Female  PhD            Teacher        745378    UP             4                 
+Arranged       34    Male    10th           GovtJob        2370491   Gujarat        6                 
+Love           31    Female  Post Graduate  PrivateJob     1262257   UP             15                
+Love           28    Female  Post Graduate  Doctor         2190498   Telangana      0                 
+Arranged       29    Female  PhD            Engineer       1549395   Rajasthan      1                 
+Arranged       29    Female  10th           Doctor         2304396   WB             7                 
+Love           24    Male    10th           Doctor         1117761   Delhi          12                
+Love           27    Female  PhD            Business       2987976   Maharashtra    0                 
+Love           29    Female  Graduate       Teacher        1112476   UP             10                
+Love           28    Female  PhD            Business       1140525   WB             0                 
+Arranged       25    Female  Graduate       Engineer       2898329   Delhi          10                
+Love           22    Female  12th           Doctor         503428    Delhi          2                 
+Arranged       38    Female  12th           Doctor         465111    Punjab         3                 
+Arranged       34    Male    12th           GovtJob        2852511   Karnataka      19                
+Love           26    Female  12th           Doctor         2769827   TamilNadu      6                 
+Love           35    Male    Graduate       PrivateJob     2637784   Telangana      11                
+Love           29    Female  10th           PrivateJob     1616539   Punjab         19                
+Arranged       23    Male    12th           GovtJob        602877    Gujarat        12                
+Arranged       22    Female  Graduate       Teacher        2429193   UP             13                
+Arranged       30    Male    Post Graduate  Business       1000172   WB             16                
+Love           22    Female  PhD            Engineer       2731017   Delhi          25                
+Arranged       32    Female  10th           GovtJob        1143393   Telangana      23                
+Arranged       29    Male    10th           PrivateJob     2200014   UP             15                
+Arranged       33    Female  10th           Engineer       1267077   Punjab         17                
+Arranged       22    Female  PhD            Teacher        1637404   Karnataka      5                 
+Arranged       29    Male    10th           Doctor         1813062   Maharashtra    7                 
+Love           38    Female  10th           GovtJob        2884110   UP             13                
+Love           23    Female  10th           GovtJob        275951    TamilNadu      23                
+Love           31    Male    10th           PrivateJob     2212090   UP             23                
+Love           27    Female  Graduate       GovtJob        1210873   Delhi          0                 
+Love           36    Female  10th           Engineer       2342227   WB             3                 
+Love           30    Male    10th           Engineer       2605004   Punjab         20                
+Love           21    Female  PhD            Engineer       2869296   Karnataka      8                 
+Arranged       28    Male    Graduate       Doctor         1405453   Delhi          16                
+Love           21    Female  12th           Business       2451502   Gujarat        18                
+Love           37    Male    12th           Business       897456    Telangana      10                
+Arranged       25    Female  Post Graduate  GovtJob        1726171   Punjab         9                 
+Arranged       37    Male    Post Graduate  Doctor         319630    Maharashtra    22                
+Arranged       30    Female  Post Graduate  Teacher        265479    Gujarat        16                
+Arranged       30    Male    PhD            PrivateJob     976436    Delhi          10                
+Arranged       33    Female  10th           Engineer       752293    Rajasthan      1                 
+Love           24    Male    10th           GovtJob        2483213   WB             24                
+Arranged       29    Male    Graduate       Business       1933882   Karnataka      14                
+Love           31    Female  Post Graduate  PrivateJob     632281    Delhi          23                
+Arranged       29    Female  Graduate       Engineer       380766    Gujarat        16                
+Love           36    Female  12th           GovtJob        1542886   Gujarat        6                 
+Love           34    Male    12th           GovtJob        1645066   Punjab         25                
+Arranged       26    Male    Post Graduate  Doctor         2755368   Punjab         25                
+Arranged       26    Female  Post Graduate  Doctor         2161475   Karnataka      16                
+Love           36    Male    12th           Engineer       1334226   TamilNadu      24                
+Love           34    Female  10th           Teacher        2498654   UP             15                
+Arranged       21    Female  12th           Engineer       497513    Rajasthan      17                
+Arranged       26    Male    Post Graduate  Business       1321143   Rajasthan      2                 
+Arranged       21    Male    PhD            Engineer       762080    WB             1                 
+Love           25    Male    PhD            Engineer       934152    Punjab         17                
+Arranged       28    Female  Post Graduate  GovtJob        1292454   Telangana      11                
+Arranged       32    Male    PhD            GovtJob        2183626   Telangana      19                
+Arranged       31    Female  Graduate       Teacher        1669710   Rajasthan      19                
+Love           23    Female  Post Graduate  Business       1623529   Telangana      0                 
+Love           32    Male    Post Graduate  Engineer       584303    WB             5                 
+Arranged       32    Female  PhD            Teacher        963253    TamilNadu      7                 
+Arranged       28    Male    10th           Doctor         2547261   Punjab         6                 
+Love           32    Female  Graduate       Engineer       334685    Punjab         0                 
+Arranged       21    Female  10th           PrivateJob     1459033   Maharashtra    4                 
+Love           26    Female  Graduate       GovtJob        283182    Gujarat        25                
+Love           25    Male    12th           Teacher        2668792   Karnataka      6                 
+Love           24    Female  Post Graduate  GovtJob        561334    WB             20                
+Love           34    Male    10th           Business       2195040   Telangana      19                
+Love           32    Female  10th           Engineer       567777    Punjab         19                
+Love           25    Female  10th           Teacher        1321562   UP             5                 
+Arranged       23    Male    Graduate       Teacher        2550911   Telangana      14                
+Arranged       38    Female  12th           Teacher        2111529   Telangana      11                
+Love           25    Female  10th           Doctor         1918777   TamilNadu      15                
+Arranged       23    Female  10th           Business       2906117   Karnataka      18                
+Love           26    Female  Post Graduate  PrivateJob     2860072   Rajasthan      0                 
+Love           32    Male    PhD            PrivateJob     2104164   Punjab         7                 
+Love           36    Male    12th           GovtJob        2141340   Maharashtra    17                
+Love           21    Female  10th           Engineer       1732298   Karnataka      3                 
+Love           34    Female  10th           Business       1196341   UP             23                
+Arranged       29    Female  12th           GovtJob        1557088   Maharashtra    23                
+Love           30    Female  Graduate       Doctor         2472698   TamilNadu      15                
+Love           24    Female  Graduate       Engineer       578587    Rajasthan      3                 
+Love           33    Male    Graduate       Doctor         2389609   Rajasthan      16                
+Love           26    Male    Graduate       Engineer       1111328   UP             7                 
+Arranged       37    Female  Post Graduate  Business       1634498   Maharashtra    8                 
+Arranged       28    Female  Graduate       GovtJob        1775802   Telangana      5                 
+Arranged       38    Female  10th           PrivateJob     1198591   Karnataka      9                 
+Love           22    Male    Post Graduate  Teacher        703587    Maharashtra    7                 
+Arranged       38    Male    10th           PrivateJob     2253230   Telangana      20                
+Arranged       30    Male    PhD            PrivateJob     1514207   WB             14                
+Love           28    Female  Post Graduate  Doctor         298659    Rajasthan      21                
+Love           36    Male    PhD            GovtJob        1236950   Telangana      21                
+Love           32    Male    Post Graduate  Engineer       2897321   WB             6                 
+Arranged       37    Female  Post Graduate  Teacher        1573010   Punjab         9                 
+Arranged       27    Female  Post Graduate  Engineer       2362703   Gujarat        19                
+Love           21    Male    PhD            PrivateJob     485558    Punjab         9                 
+Arranged       27    Male    12th           Business       1663998   Delhi          9                 
+Love           26    Female  12th           Engineer       1732035   Maharashtra    4                 
+Love           34    Male    PhD            Business       1961156   Karnataka      0                 
+Arranged       35    Female  10th           PrivateJob     1705288   Karnataka      9                 
+Love           34    Female  PhD            GovtJob        381315    UP             12                
+Arranged       24    Female  Graduate       Doctor         1031146   Gujarat        11                
+Arranged       32    Female  12th           PrivateJob     1525141   Delhi          9                 
+Arranged       30    Male    PhD            PrivateJob     1568311   Rajasthan      12                
+Arranged       32    Female  12th           PrivateJob     1827432   Delhi          8                 
+Arranged       36    Female  12th           GovtJob        1001066   Karnataka      8                 
+Love           28    Male    Post Graduate  Business       234598    Delhi          20                
+Arranged       27    Female  Graduate       PrivateJob     408841    TamilNadu      17                
+Arranged       25    Female  Graduate       PrivateJob     669744    Delhi          16                
+Arranged       28    Female  10th           PrivateJob     1792222   WB             25                
+Love           29    Female  12th           Teacher        1763205   TamilNadu      17                
+Love           30    Female  Graduate       Teacher        535849    Karnataka      22                
+Arranged       28    Male    12th           PrivateJob     1155738   Telangana      12                
+Arranged       37    Male    Post Graduate  GovtJob        2730974   UP             3                 
+Arranged       37    Female  Graduate       PrivateJob     1405040   WB             0                 
+Love           31    Male    PhD            Doctor         2565572   Rajasthan      8                 
+Arranged       32    Female  Post Graduate  Business       239397    Punjab         11                
+Arranged       38    Male    12th           Doctor         1621785   Delhi          11                
+Love           21    Female  Post Graduate  Doctor         1346854   Punjab         13                
+Love           36    Male    12th           Engineer       1530372   Rajasthan      20                
+Love           24    Male    12th           Engineer       1534182   UP             2                 
+Love           36    Male    PhD            Business       2631908   Delhi          9                 
+Arranged       23    Female  12th           Teacher        217370    UP             19                
+Love           26    Male    Post Graduate  Doctor         2338270   WB             24                
+Love           33    Female  Graduate       Engineer       453935    Delhi          15                
+Love           24    Male    Graduate       Engineer       2205355   Gujarat        24                
+Arranged       25    Male    12th           Teacher        1603083   Delhi          8                 
+Arranged       27    Male    Post Graduate  Doctor         904223    Rajasthan      25                
+Arranged       24    Female  Graduate       Business       2311136   WB             8                 
+Love           23    Female  10th           Doctor         2394864   Karnataka      0                 
+Arranged       23    Male    Graduate       PrivateJob     1998621   Rajasthan      19                
+Arranged       33    Male    10th           Business       1230064   Telangana      13                
+Arranged       26    Male    Graduate       Business       1525109   Maharashtra    15                
+Arranged       24    Female  Post Graduate  Doctor         2578980   UP             8                 
+Love           27    Male    Graduate       GovtJob        1239142   Maharashtra    3                 
+Love           24    Female  10th           GovtJob        1309421   UP             22                
+Arranged       38    Female  12th           Teacher        2034960   TamilNadu      15                
+Arranged       27    Female  Post Graduate  Teacher        1587229   Karnataka      19                
+Love           30    Male    12th           GovtJob        2825514   UP             3                 
+Arranged       34    Male    PhD            Engineer       1561722   UP             12                
+Love           28    Female  Graduate       GovtJob        433398    Delhi          17                
+Love           23    Male    Post Graduate  Doctor         2936976   Karnataka      25                
+Arranged       24    Female  10th           Business       545064    WB             3                 
+Arranged       26    Female  12th           GovtJob        2207000   Delhi          14                
+Love           26    Male    PhD            Business       703486    Telangana      23                
+Love           26    Male    PhD            PrivateJob     769297    WB             4                 
+Love           38    Male    12th           PrivateJob     2950266   UP             3                 
+Love           30    Male    PhD            PrivateJob     1640600   WB             22                
+Love           28    Female  Post Graduate  GovtJob        1275099   Gujarat        22                
+Arranged       23    Male    Graduate       PrivateJob     2374121   Karnataka      19                
+Love           31    Male    10th           Doctor         222757    UP             22                
+Arranged       30    Female  Post Graduate  GovtJob        2652580   TamilNadu      12                
+Arranged       24    Male    10th           GovtJob        421817    Telangana      19                
+Love           26    Male    PhD            Engineer       681212    Rajasthan      1                 
+Arranged       28    Female  12th           GovtJob        399989    TamilNadu      22                
+Love           29    Female  PhD            Doctor         2105213   Punjab         11                
+Love           26    Female  Post Graduate  Teacher        2854106   TamilNadu      20                
+Love           35    Male    10th           Business       2753147   Punjab         8                 
+Arranged       22    Female  Graduate       PrivateJob     919083    TamilNadu      0                 
+Arranged       38    Male    Graduate       Teacher        2004408   TamilNadu      11                
+Love           35    Female  12th           Engineer       2355193   Delhi          8                 
+Arranged       25    Male    Graduate       Doctor         2513421   Maharashtra    1                 
+Love           28    Male    10th           Teacher        1394386   UP             10                
+Love           21    Female  Graduate       Doctor         1404915   Gujarat        16                
+Love           31    Male    12th           GovtJob        2670115   Karnataka      10                
+Love           25    Female  Graduate       Doctor         1329351   Rajasthan      16                
+Arranged       25    Female  Post Graduate  Business       1953155   Rajasthan      17                
+Arranged       23    Female  12th           Doctor         2946281   Maharashtra    15                
+Love           30    Female  PhD            Doctor         2657974   TamilNadu      0                 
+Love           36    Male    12th           Teacher        1206668   WB             2                 
+Arranged       27    Female  Graduate       Business       751953    TamilNadu      16                
+Arranged       33    Female  12th           Doctor         2613418   Gujarat        20                
+Arranged       28    Female  10th           Doctor         1354493   UP             21                
+Arranged       23    Male    PhD            Doctor         1072611   WB             7                 
+Love           33    Male    PhD            Business       206394    Telangana      2                 
+Arranged       31    Female  Graduate       GovtJob        316653    UP             17                
+Arranged       31    Male    10th           Engineer       2794570   Rajasthan      21                
+Arranged       34    Male    PhD            PrivateJob     967716    Telangana      1                 
+Arranged       36    Male    PhD            GovtJob        1896870   Gujarat        4                 
+Arranged       26    Male    Graduate       Engineer       2077220   Delhi          24                
+Arranged       34    Male    Post Graduate  GovtJob        1168998   Punjab         13                
+Love           25    Male    Post Graduate  GovtJob        2242455   Gujarat        24                
+Arranged       22    Female  Post Graduate  Business       589411    Delhi          6                 
+Arranged       32    Female  12th           Doctor         1170302   UP             8                 
+Love           34    Male    12th           Business       2899902   Karnataka      5                 
+Love           22    Female  Post Graduate  PrivateJob     264013    Telangana      18                
+Arranged       25    Female  PhD            Doctor         968075    TamilNadu      23                
+Love           24    Male    10th           Engineer       1373031   Delhi          1                 
+Love           36    Female  Post Graduate  Business       1561197   WB             17                
+Arranged       25    Female  Graduate       PrivateJob     954001    TamilNadu      18                
+Arranged       26    Male    Graduate       Business       429192    Gujarat        17                
+Arranged       29    Male    Post Graduate  GovtJob        2461407   Gujarat        5                 
+Love           21    Male    10th           PrivateJob     1847996   UP             20                
+Love           21    Male    12th           Business       381354    Maharashtra    6                 
+Arranged       35    Male    PhD            PrivateJob     1621383   Gujarat        21                
+Arranged       27    Female  12th           Business       2997277   Karnataka      13                
+Love           29    Female  10th           GovtJob        1021098   Maharashtra    4                 
+Arranged       31    Male    10th           GovtJob        1769501   Rajasthan      24                
+Love           23    Female  12th           Business       2604830   Punjab         11                
+Love           32    Female  Graduate       GovtJob        654092    Telangana      0                 
+Love           32    Male    10th           Engineer       214355    TamilNadu      18                
+Love           38    Female  Post Graduate  GovtJob        1352261   Karnataka      21                
+Arranged       31    Male    12th           GovtJob        978869    Gujarat        13                
+Arranged       38    Male    Post Graduate  Teacher        2010231   UP             2                 
+Love           34    Male    10th           Engineer       659946    Telangana      19                
+Love           35    Male    Graduate       Engineer       2134095   Delhi          16                
+Arranged       25    Male    12th           Teacher        1986685   WB             14                
+Love           30    Male    12th           GovtJob        689910    WB             19                
+Arranged       27    Male    12th           PrivateJob     2580245   Telangana      2                 
+Arranged       36    Male    Graduate       GovtJob        989354    TamilNadu      22                
+Arranged       21    Female  10th           Teacher        1986568   WB             12                
+Arranged       34    Female  10th           PrivateJob     1394729   Karnataka      6                 
+Love           21    Female  Post Graduate  Business       2986488   Punjab         25                
+Love           24    Male    Post Graduate  Teacher        2939713   Delhi          5                 
+Love           38    Female  Graduate       Business       2037078   Punjab         13                
+Arranged       34    Male    Graduate       Doctor         2503065   UP             18                
+Love           23    Male    Graduate       PrivateJob     252864    Delhi          21                
+Love           36    Female  Post Graduate  Teacher        976881    Delhi          24                
+Love           25    Male    10th           Business       254747    Rajasthan      9                 
+Love           22    Male    Graduate       Business       2561129   Maharashtra    4                 
+Arranged       25    Female  Graduate       Teacher        896421    TamilNadu      25                
+Love           28    Female  Graduate       Business       2629121   TamilNadu      7                 
+Arranged       32    Female  10th           Teacher        1191755   Gujarat        17                
+Love           24    Male    Graduate       GovtJob        2213689   Gujarat        17                
+Arranged       34    Male    Graduate       Business       2396053   Punjab         0                 
+Love           36    Female  Graduate       Engineer       2013442   Maharashtra    24                
+Love           32    Female  10th           Doctor         2355613   UP             23                
+Love           22    Male    Post Graduate  Engineer       1633918   Delhi          18                
+Love           37    Male    10th           Doctor         2455799   Rajasthan      25                
+Arranged       24    Female  PhD            PrivateJob     2196208   Punjab         22                
+Love           38    Female  PhD            Business       2772101   WB             8                 
+Love           25    Male    12th           Doctor         1778287   WB             8                 
+Love           27    Male    Post Graduate  Teacher        2855664   WB             23                
+Love           34    Female  10th           Teacher        1856408   Rajasthan      2                 
+Arranged       30    Male    12th           Teacher        407739    Telangana      4                 
+Love           28    Female  PhD            Teacher        1371490   WB             20                
+Love           35    Female  10th           GovtJob        1254702   Punjab         10                
+Love           38    Male    12th           GovtJob        1621285   Maharashtra    3                 
+Love           38    Male    Graduate       Teacher        490904    WB             19                
+Love           30    Female  10th           PrivateJob     2769502   Gujarat        24                
+Love           22    Female  PhD            Doctor         1919782   Punjab         21                
+Love           27    Male    PhD            Business       724420    Delhi          24                
+Arranged       21    Female  10th           Doctor         2801300   UP             9                 
+Arranged       37    Male    10th           GovtJob        2299471   Karnataka      20                
+Love           32    Male    PhD            Doctor         2961292   Karnataka      2                 
+Love           31    Female  12th           GovtJob        1386209   Maharashtra    18                
+Arranged       31    Female  PhD            Doctor         547171    TamilNadu      19                
+Love           36    Male    12th           PrivateJob     633925    Karnataka      13                
+Arranged       34    Female  Post Graduate  PrivateJob     1337069   Delhi          11                
+Arranged       36    Male    Post Graduate  GovtJob        2680213   WB             8                 
+Love           27    Male    10th           Business       2389024   WB             23                
+Love           27    Male    Graduate       GovtJob        1450182   Rajasthan      20                
+Arranged       38    Female  Graduate       PrivateJob     1819399   Punjab         24                
+Love           24    Male    Post Graduate  GovtJob        557899    TamilNadu      19                
+Love           27    Male    Post Graduate  Business       387036    Rajasthan      9                 
